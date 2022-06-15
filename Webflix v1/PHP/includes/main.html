@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Webflix</title>
+    <link rel="stylesheet" href="css/webflixstyle.css">
+</head>
+<body>
+
+<header>
+    <img class="logo" src="img/webflix.png" alt="logo">
+    <nav>
+        <ul class="nav_links">
+            <li><a href="home.php" id="home">Home</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="user.php">
+
+                <!--connect to database to retrieve username-->
+                <?php
+                if(isset($_SESSION['first_name']))
+                { echo $_SESSION['first_name']. " " . $_SESSION['last_name'];}
+            ?>
+            </a></li>
+
+            <li><a href="logout.php">Logout</a></li>
+        </ul>
+        </nav>
+</header>
+</body>
+</html>

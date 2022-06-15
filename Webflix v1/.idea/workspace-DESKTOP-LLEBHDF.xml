@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e07c3b7-54ea-4d4e-b6f9-b0a6fbe2c13a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PHP/includes/main.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="283UD85ctBVzso0RFmfilDICOnO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHP/admin_panel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\david\OneDrive - Edinburgh College\Year 2\Semester 2 - 2022\Jorge - Graded Unit\Stage 2 - Development\Webflix v1\PHP\admin_panel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\OneDrive - Edinburgh College\Year 2\Semester 2 - 2022\Jorge - Graded Unit\Stage 2 - Development\Webflix v1\PHP\admin_panel\css" />
+      <recent name="C:\Users\david\OneDrive - Edinburgh College\Year 2\Semester 2 - 2022\Jorge - Graded Unit\Stage 2 - Development\Webflix v1\PHP\admin_panel\includes" />
+      <recent name="C:\Users\david\OneDrive - Edinburgh College\Year 2\Semester 2 - 2022\Jorge - Graded Unit\Stage 2 - Development\Webflix v1\PHP" />
+      <recent name="C:\Users\david\OneDrive - Edinburgh College\Year 2\Semester 2 - 2022\Jorge - Graded Unit\Stage 2 - Development\Webflix v1\PHP\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e07c3b7-54ea-4d4e-b6f9-b0a6fbe2c13a" name="Changes" comment="" />
+      <created>1650444641301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650444641301</updated>
+      <workItem from="1650444642414" duration="8173000" />
+      <workItem from="1650460494306" duration="2145000" />
+      <workItem from="1650617797695" duration="10016000" />
+      <workItem from="1650876926757" duration="82000" />
+      <workItem from="1650877031806" duration="16326000" />
+      <workItem from="1650962022678" duration="14801000" />
+      <workItem from="1651054175655" duration="8201000" />
+      <workItem from="1651229232939" duration="10094000" />
+      <workItem from="1651482117371" duration="13715000" />
+      <workItem from="1651663006631" duration="19000" />
+      <workItem from="1651663042107" duration="9593000" />
+      <workItem from="1651745253381" duration="8658000" />
+      <workItem from="1651839460922" duration="7192000" />
+      <workItem from="1652086691147" duration="10297000" />
+      <workItem from="1652168500954" duration="13660000" />
+      <workItem from="1652260144635" duration="14371000" />
+      <workItem from="1652438333544" duration="250000" />
+      <workItem from="1652439094898" duration="7846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/PHP/admin_panel/admin_login_register.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/PHP/admin_panel/admin_index.php</url>
+          <line>72</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
